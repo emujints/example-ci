@@ -1,5 +1,5 @@
 
-from functions import add
+from functions import add, subtract
 
 
 def test_add():
